@@ -1,3 +1,4 @@
+[返回上级目录](https://github.com/jeannieyeliu/docker_k8s_study/tree/main)
 # docker_k8s_study
 This repo is the tutorial of docker and k8s. 
 
